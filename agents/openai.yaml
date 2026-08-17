@@ -1,0 +1,4 @@
+interface:
+  display_name: "证件照批处理"
+  short_description: "完全本地使用 MODNet 批量裁切、换底并验证证件照"
+  default_prompt: "使用 $process-id-photos 在完全本地环境批量处理证件照，并完成规格与视觉质检。"
